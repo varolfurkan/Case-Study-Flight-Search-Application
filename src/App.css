@@ -1,0 +1,15 @@
+
+.flight-list {
+  padding: 20px;
+  border: 1px dotted #ccc;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.flight-item {
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+
